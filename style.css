@@ -1,0 +1,48 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: rgb(94, 94, 199);
+    
+   
+}
+.qq{
+    font-size: 40px;
+    padding-left: 6%;
+}
+.blue{
+    color:rgb(118, 58, 187);
+    padding-left: 4%;
+}
+section{
+    display: flex;
+}
+.half{
+    width: 50%;
+    padding-left: 5%;
+}
+.ee{
+    color: crimson;
+  
+}
+.ww{
+    background-color: blueviolet;
+}
+.half img{
+    width: 65%;
+    height: 90%;
+    padding-left: 10%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(131, 131, 165),slateblue);
+    padding: 10px 30px;
+    color: black;
+    font-weight: 900;
+    border-radius: 5px;
+}
+.Ela{
+    background-image: url(background/1.png);
+    
+}
